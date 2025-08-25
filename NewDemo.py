@@ -451,8 +451,10 @@ with col2:
             <li>✅ No internet connection needed</li>
             <li>✅ Complete privacy</li>
             <li>✅ Fast local processing</li>
-            <li>✅ TF-IDF semantic search</li>
-            <li>✅ Keyword matching fallback</li>
+            <li>✅ Document Insights</li>
+            <li>✅ Privacy allocated</li>
+            
+            
         </ul>
         </div>
         """, unsafe_allow_html=True)
